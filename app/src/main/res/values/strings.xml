@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BMIcalc</string>
+    <string name="strOverweight">You are Overweight</string>
+    <string name="strUnderweight">You are Underweight</string>
+    <string name="strHealthy">You are Healthy</string>
+    <string name="strBMI">Your BMI is</string>
+    <string name="strinvalid">please fill all the Details!!</string>
+    <string name="strClear">Clear</string>
+    <string name="hint_wt">Weight(kg)</string>
+    <string name="hint_ht">Height(cm)</string>
+    <string name="txt_btnCal">Calculate</string>
+    <string name="txt_result">Result</string>
+    <string name="txt_Msg">Message</string>
+</resources>
